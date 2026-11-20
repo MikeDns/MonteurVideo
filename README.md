@@ -100,12 +100,12 @@ Oui. L'export part toujours des vidéos d'origine et coupe à l'image près. Le 
 **Aide › Visite guidée de l'interface**. Les raccourcis clavier sont dans **Aide › Raccourcis clavier** (F1).
 </details>
 
-## Licence
+## Conditions d'utilisation
 
-Cut Together est distribué sous licence **GPL-3.0** ([LICENSE](LICENSE)). Le code de l'application est fourni lisible dans le dossier d'installation (`versions\x.y.z`).
+Cut Together est un logiciel **gratuit**, © 2026 Mike DANSOU, **tous droits réservés** : utilisation libre, à titre personnel comme professionnel, sur autant d'ordinateurs que vous le souhaitez. Voir les [conditions d'utilisation](LICENSE).
 
-Composants tiers : [FFmpeg](https://ffmpeg.org) (build [gyan.dev](https://www.gyan.dev/ffmpeg/builds/), GPL), [libmpv](https://mpv.io) (build [shinchiro](https://github.com/shinchiro/mpv-winbuild-cmake), GPL), [Qt / PySide6](https://www.qt.io/qt-for-python) (LGPL), [uv](https://github.com/astral-sh/uv) (licences MIT / Apache 2.0).
+Il s'appuie sur des composants tiers qui restent sous leur propre licence (FFmpeg, libmpv, Qt / PySide6, uv…) : voir [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ---
 
-<p align="center"><sub>Cut Together — anciennement « Monteur Vidéo » · © 2026 Mike DANSOU</sub></p>
+<p align="center"><sub>Cut Together — anciennement « Monteur Vidéo » · © 2026 Mike DANSOU · tous droits réservés</sub></p>
